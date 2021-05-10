@@ -1,14 +1,14 @@
 # 21. MERN Challenge: Book Search Engine
 
 ## Description
-I Refactored a Google Books API search engine built in MERN Stack. I set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API. Along with searching for books, users can save their favorive books once logged in.
+I refactored a Google Books API search engine built in MERN Stack. I set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API. Along with searching for books, users can save their favorive books once logged in.
 
 
 ### Screenshot
-<img src = "src\imgs\appScreenshot.jpg" alt = "generator preview">
+<img src = "client\imgs\appScreenshot.jpg" alt = "generator preview">
 
 ### Link to App
-https://grech17.github.io/react-portfolio/
+https://gabriel-book-search.herokuapp.com/
 
 
 ## Technologies Use
